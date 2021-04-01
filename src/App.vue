@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <facebook-login class="button"
-      appId="420905468863679"
+      appId="275063734239822"
       @login="onLogin"
       @logout="onLogout"
       @get-initial-status="getUserData"
